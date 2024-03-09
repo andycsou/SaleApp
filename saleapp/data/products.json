@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone xyz",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "iPad new",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "iPhone 115",
+    "price": 15,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+    "category_id": 1
+  },
+    {
+    "id": 4,
+    "name": "iPhone xyz",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "iPhone xyz",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Asus xuz",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/310803/asus-tuf-gaming-f15-fx507zc4-i5-hn074w-thumb-600x600.jpg",
+    "category_id": 3
+  }
+]
